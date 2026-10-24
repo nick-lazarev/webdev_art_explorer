@@ -111,3 +111,9 @@ button {
 .searchForm > *:first-child{
   margin-top: 0px;
 }
+
+.homeImageWrapper {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}

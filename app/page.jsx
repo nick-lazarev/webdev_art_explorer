@@ -9,8 +9,8 @@ export default function Home() {
       <Link className="button" href="/artwork">
         Explore Artworks
       </Link>
-      <div className="placeholder">
-        Your home-page improvement goes here (optional).
+      <div className="homeImageWrapper">
+        <img alt="home image" src="/home.png"/>
       </div>
     </section>
   );
